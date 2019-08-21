@@ -105,15 +105,3 @@ This folder contains data like images uploaded by users.
 
 
 
-
-************************************************************************
-
-WeAreHungry Android Project
-
--> Contains all the files for create wearehungry.apk file.
-
-*************************************************************************
-
-wearehungry.apk
-
--> Install this file in your android and run the app.
